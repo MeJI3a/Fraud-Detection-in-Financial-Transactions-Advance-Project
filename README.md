@@ -48,11 +48,14 @@ Python is used for data preprocessing, analysis, and machine learning modeling. 
 - **`DataDistribution.pdf`**:
   - Provides visual insights into the distribution of transaction amounts and fraud cases.
 
-- **`fraudData_cleaned.csv`**:
-  - The cleaned dataset after applying feature engineering and encoding.
+- **fraudData_cleaned.csv**:  
+  The cleaned dataset after applying feature engineering and encoding.  
+  [Download fraudData_cleaned.csv from Google Drive](https://drive.google.com/file/d/1SnwlOIx9ypUu6DQ2ZvDCr00EYpnJMADM/view?usp=sharing)
 
-- **`fraudData.csv`**:
-  - The raw dataset used as the starting point for analysis.
+- **fraudData.csv**:  
+  The raw dataset used as the starting point for analysis.  
+  [Download fraudData.csv from Google Drive](https://drive.google.com/file/d/1rpBKFOPYxyZgltkyuYAvsdt2qk959PJx/view?usp=sharing)
+
 
 - **`smote_results.csv`**:
   - A report on the class distribution before and after applying SMOTE.
