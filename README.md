@@ -88,7 +88,7 @@ SQL is used to structure and query the data for insights. Below are the SQL file
 
 ### Power BI (Future Work)
 
-Plans to develop an interactive dashboard using Power BI:
+Plans to develop an interactive dashboard using Power BI.
 
 - **Features**:
   - Visualize transaction patterns, fraud trends, and category distributions.
